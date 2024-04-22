@@ -11,3 +11,11 @@ This repository contains data and Python code developed to replicate the finding
 - replication.ipynb : Jupyter notebook with Python code to recreate tables and figures.
 - ECON_470_Midterm_2 (1).pdf : Overleaf presentation poster.
 
+### Data Description
+The dataset includes variables such as BAC levels, recidivism indicators, and demographic details of offenders, originally sourced from administrative records of DUI stops. Please refer to the data dictionary for detailed descriptions of all variables.
+
+### Methodology
+The original study utilized a regression discontinuity design to estimate the impact of BAC thresholds on the probability of recidivism. This repository attempts to recreate that analysis using Python, and add to the empirical analysis by using machine learning methods, providing scripts for both the statistical tests and the generation of relevant visualizations.
+
+### Citation
+Hansen, B. (2015). Punishment and Deterrence: Evidence from Drunk Driving. American Economic Review, 105(4), 1581–1617. DOI:10.1257/aer.20130189
