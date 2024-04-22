@@ -19,3 +19,7 @@ The original study utilized a regression discontinuity design to estimate the im
 
 ### Citation
 Hansen, B. (2015). Punishment and Deterrence: Evidence from Drunk Driving. American Economic Review, 105(4), 1581–1617. DOI:10.1257/aer.20130189
+
+### Contributors
+
+- (Jose Hernandez-Balsamo)[www.linkedin.com/in/jose-hernandezb-24d05]
