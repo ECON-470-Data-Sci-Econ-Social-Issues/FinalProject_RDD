@@ -23,3 +23,6 @@ Hansen, B. (2015). Punishment and Deterrence: Evidence from Drunk Driving. Ameri
 ### Contributors
 
 - [Jose Hernandez-Balsamo](www.linkedin.com/in/jose-hernandezb-24d05)
+- [Patrick Tierney]()
+- [Canyon Marshall]()
+- Luke Mynatt
