@@ -5,9 +5,6 @@ This repository contains data and Python code developed to replicate the finding
 
 ### Repostory Contents
 
-- Punishment_and_Deterrence_Evi.pdf : Published paper, "Punishment and Deterrence: Evidence from Drunk Driving," by Benjamin Hansen.
-- hansen_dwi.dta : Stata file with the data used for replicating the results.
-- 112907-V1 : Folder containing .do files with Stata steps to create tables and figures.
 - replication.ipynb : Jupyter notebook with Python code to recreate tables and figures.
 - ECON_470_Midterm_2 (1).pdf : Overleaf presentation poster.
 
