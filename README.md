@@ -5,7 +5,10 @@ This repository contains data and Python code developed to replicate the finding
 
 ### Repostory Contents
 
-- replication.ipynb : Jupyter notebook with Python code to recreate tables and figures.
+- replication.ipynb : Jupyter notebook with Python code to recreate the paper's results.
+- rdd_ml.py : Python script using Cross Validation to optimize bandwidth.
+- hansen_dwi.csv : CSV file with data used for the replication.
+- 
 
 ### Data Description
 The dataset includes variables such as BAC levels, recidivism indicators, and demographic details of offenders, originally sourced from administrative records of DUI stops. Please refer to the data dictionary for detailed descriptions of all variables.
