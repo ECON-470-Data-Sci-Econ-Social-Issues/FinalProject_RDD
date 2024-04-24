@@ -6,7 +6,6 @@ This repository contains data and Python code developed to replicate the finding
 ### Repostory Contents
 
 - replication.ipynb : Jupyter notebook with Python code to recreate tables and figures.
-- ECON_470_Midterm_2 (1).pdf : Overleaf presentation poster.
 
 ### Data Description
 The dataset includes variables such as BAC levels, recidivism indicators, and demographic details of offenders, originally sourced from administrative records of DUI stops. Please refer to the data dictionary for detailed descriptions of all variables.
@@ -20,6 +19,6 @@ Hansen, B. (2015). Punishment and Deterrence: Evidence from Drunk Driving. Ameri
 ### Contributors
 
 - [Jose Hernandez-Balsamo](https://www.linkedin.com/in/jose-hernandezb-24d05)
-- [Patrick Tierney]()
-- [Canyon Marshall]()
+- [Patrick Tierney](https://www.linkedin.com/in/patrick-tierney-4bb579265/)
+- Canyon Marshall
 - Luke Mynatt
