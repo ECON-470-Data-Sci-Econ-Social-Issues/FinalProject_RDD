@@ -50,4 +50,7 @@ bandwidths = np.linspace(0.01, 0.50, 100)
 
 # Perform cross-validation to find the optimal bandwidth
 optimal_bandwidth = bandwidth_cv(data, threshold, outcome, bandwidths)
-print(f'The optimal bandwidth is: {optimal_bandwidth}')
+print(f'The optimal bandwidth for the 0.08 BAC threshold: {optimal_bandwidth:.3f}')
+threshold = 0.15 # Now optimize bandwith for the second discontinuity point
+optimal_bandwidth = bandwidth_cv(data, threshold, outcome, bandwidths)
+print(f'The optimal bandwidth for the 0.15 BAC threshold: {optimal_bandwidth:.3f}')
