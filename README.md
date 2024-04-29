@@ -25,3 +25,8 @@ Hansen, B. (2015). Punishment and Deterrence: Evidence from Drunk Driving. Ameri
 - [Patrick Tierney](https://www.linkedin.com/in/patrick-tierney-4bb579265/)
 - Canyon Marshall
 - Luke Mynatt
+
+### Google Colab
+
+- [rdd_ml](https://colab.research.google.com/drive/1Upaa3OdKOsjh8D3ik2dYccA-12f_MGbQ)
+- [replication](https://colab.research.google.com/drive/1m_EOAjaHVONWRYYlNN4gCvaHG7da0DNR?usp=sharing)
